@@ -10,7 +10,7 @@ class Nav extends Component {
         src="https://www.achat-cloud.fr/wp-content/uploads/cloud.png"
         alt="new"
       />
-      <p className="log-btn">Log in</p>
+      <a className="log-btn">Log in</a>
       </div>
     );
   };
