@@ -3,10 +3,24 @@ body {
 }
 
 .home-image {
-//   background-image: url('https://www.novapolymers.com/wp-content/uploads/2017/01/Cranes.jpg');
   background-size: cover;
   height: 100vh;
   width: 100vw;
+}
+
+.img-one {
+  background-image: url('https://bit.ly/2YnzrI6');
+  transition: 0.5s;
+}
+
+.img-two {
+  background-image: url('https://bit.ly/2xmOZQm');
+  transition: 0.5s;
+}
+
+.img-three {
+  background-image: url('https://bit.ly/2LtwwtI');
+  transition: 0.5s;
 }
 
 .main {
